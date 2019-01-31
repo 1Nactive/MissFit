@@ -1,0 +1,27 @@
+{
+	"name": "Pokemon-Showdown-Bot",
+	"version": "0.0.1",
+	"dependencies": {
+		"sugar": "1.4.1",
+		"websocket": "1.0.21",
+		"colors": "1.1.2",
+		"babel": "5.8.23",
+		"babel-core": "5.8.24",
+		"csv-parse": "1.0.0"
+	},
+	"engines": {
+		"node": ">= 4.0.0"
+	},
+	"scripts": {
+		"start": "node main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Quinella/Pokemon-Showdown-Bot.git"
+	},
+	"author": {
+		"name": "Robin Vandenbrande",
+		"email": "vandenbrande.robin@gmail.com"
+	},
+	"private": true
+}
